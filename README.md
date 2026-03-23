@@ -17,7 +17,7 @@ A terminal typing speed test. No browser, no distractions.
 
 ```bash
 git clone https://github.com/30Sana/typer.git
-cd typer
+cd Typing-Speed-Test-CLI
 pip install -r requirements.txt
 ```
 
